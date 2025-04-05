@@ -1,0 +1,5 @@
+Este arquivo é um placeholder para a pasta public.
+
+Você deve adicionar os seguintes arquivos na pasta public:
+1. avatar.jpg - Uma foto de perfil (idealmente 200x200px)
+2. favicon.ico - Ícone para a página
